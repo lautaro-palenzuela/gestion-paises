@@ -54,8 +54,10 @@ Agregar un país:
     Superficie: 176215
     Continente: América
     País agregado
-    
+   
+
 Filtrar por continente (América):
+
     Continente: América
     - Argentina | Población: 45376763 | Superficie: 2780400 | Continente: América
     - Brasil | Población: 213993437 | Superficie: 8515767 | Continente: América
