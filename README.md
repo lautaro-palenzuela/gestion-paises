@@ -65,7 +65,7 @@ Filtrar por continente (América):
 
 
 ## Documentación adicional
-Informe técnico en PDF: [pendiente]
+Informe técnico en PDF: (https://github.com/lautaro-palenzuela/gestion-paises/blob/main/TPI%20-%20Programaci%C3%B3n%201.pdf)
 
 Video demostrativo: [pendiente]
 
